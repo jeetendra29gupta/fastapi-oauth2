@@ -1,0 +1,14 @@
+fastapi
+pydantic
+bcrypt
+pyjwt
+python-multipart
+email-validator
+python-dotenv
+requests
+sqlalchemy
+uvicorn
+black
+flake8
+
+
